@@ -1,2 +1,7 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+.bg-banner {
+  background-image: url(assets/banner.jpg);
+  background-repeat: no-repeat;
+}
